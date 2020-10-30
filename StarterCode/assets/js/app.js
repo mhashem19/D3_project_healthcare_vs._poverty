@@ -109,12 +109,12 @@ d3.csv("assets/data/data.csv").then(function(healthData) {
       .attr("x", 0 - (height / 2))
       .attr("dy", "1em")
       .attr("class", "axisText")
-      .text("Health Care");
+      .text("Lacks Healthcare (%)");
 
     plotGroup.append("text")
       .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
       .attr("class", "axisText")
-      .text("Poverty %");
+      .text("Poverty (%)");
   }).catch(function(error) {
     console.log(error);
   });
