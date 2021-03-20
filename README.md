@@ -18,7 +18,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 # Core Assignment: D3 Dabbler (Required Assignment)
 
-![4-scatter](Images/4-scatter.jpg)
+![image](https://user-images.githubusercontent.com/66819157/111856723-f428bc80-88e9-11eb-8898-92410cfc23ac.png)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
@@ -30,7 +30,6 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 * Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
 
-![image](https://user-images.githubusercontent.com/66819157/111856677-a449f580-88e9-11eb-9738-726d4458fd44.png)
 
 
 ### Copyright
